@@ -1,0 +1,23 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  margin-top: 10%;
+  text-align: center;
+  margin-bottom: 0%;
+  font-size: 45px;
+}
+span{
+margin-left: 27%;
+font-size: 18px;
+margin-top: 0%;
+}
+div{
+  background-color: antiquewhite;
+  font-size: 18px;
+}
+p{
+ 
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
